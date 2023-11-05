@@ -1,7 +1,4 @@
-﻿// This file is provided under The MIT License as part of RiptideSteamTransport.
-// Copyright (c) Tom Weiland
-// For additional information please see the included LICENSE.md file or view it on GitHub:
-// https://github.com/tom-weiland/RiptideSteamTransport/blob/main/LICENSE.md
+﻿// This file is a 1:1 conversion from Tom Weilands Riptide Transport https://github.com/tom-weiland/RiptideSteamTransport/
 using Steamworks;
 using System;
 using System.Collections.Generic;
